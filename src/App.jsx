@@ -1,10 +1,11 @@
 import './App.css'
+import qrCodeImage from '../images/image-qr-code.png'
 
 // QR code image component
-function Qrcodemage() {
+function QrcodeImage() {
   return(
     <div className="qrimage">
-      <img src="../images/image-qr-code.png" alt="The QR code" />
+      <img src={qrCodeImage} alt="The QR code" />
     </div>
   )
 }
@@ -21,7 +22,7 @@ function DescriptionOfQrCode({children}) {
 function QrCodeCard() {
   return(
     <div className="codeQrCard">
-        <Qrcodemage />
+        <QrcodeImage />
         <DescriptionOfQrCode>
           <h1>Improve your your front-end skills by building projects</h1>
           <p>
