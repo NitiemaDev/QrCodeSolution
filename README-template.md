@@ -1,14 +1,12 @@
-# Frontend Mentor - QR Code Component Solution
+# Frontend Mentor - QR code component solution
 
-This is a solution to the QR code component challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
----
-
-## 📜 Table of contents
+## Table of contents
 
 - [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Links](#links)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,94 +15,90 @@ This is a solution to the QR code component challenge on [Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
----
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## 🏆 Overview
+## Overview
 
-A simple yet effective project that displays a QR Code with a short description. This project helped me practice layout structuring, responsiveness, and clean code integration.
+### Screenshot
 
----
+![](./screenshot.jpg)
 
-## 📸 Screenshot
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-![Project Screenshot](./images/QRcodeSolution%20Desktop.png)
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
----
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-## 🔗 Links
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
-- **Solution URL:** [Add solution URL here]
-- **Live Site URL:** [Add live site URL here]
+### Links
 
----
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## ⚙️ My process
+## My process
 
-### 🛠 Built with
+### Built with
 
-- **Semantic HTML5 markup**
-- **CSS3 (Flexbox + Media Queries)**
-- **React.js** for component-based structure
-- **Mobile-first workflow**
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
 
----
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-### 📌 What I learned
+### What I learned
 
-This project reinforced my knowledge in:
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-- Using **Flexbox** for simple yet powerful layout structuring.
-- Improving **component-based development** in **React**.
-- Writing **clean and maintainable code**.
+To see how you can add code snippets, see below:
 
-#### Some code snippets I'm proud of:
-
-```jsx
-function QrCodeCard() {
-  return (
-    <div className="codeQrCard">
-      <Qrcodemage />
-      <DescriptionOfQrCode>
-        <h1>Improve your front-end skills by building projects</h1>
-        <p>
-          Scan the QR code to visit Frontend Mentor and take your coding skills to the next level.
-        </p>
-      </DescriptionOfQrCode>
-    </div>
-  );
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
 }
 ```
 
----
 
-### 🚀 Continued development
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-In future projects, I want to:
+**Note: Delete this note and the content within this section and replace with your own learnings.**
 
-- Implement **smooth animations** when hovering over the QR Code.
-- Add **light and dark mode support** for better accessibility.
-- Deploy more projects using **GitHub Pages or Vercel**.
+### Continued development
 
----
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-### 📚 Useful resources
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-- [📖 JavaScript.info](https://javascript.info/) - Comprehensive JS guide, from basics to advanced topics.
-- [💡 CSS Tricks](https://css-tricks.com/) - A great place for CSS tips and tricks.
-- [📘 React Docs](https://react.dev/) - The official React documentation.
+### Useful resources
 
----
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-## 👨‍💻 Author
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-- **Website:** [Add your name here]
-- **Frontend Mentor:** [@NitiemaDev](https://www.frontendmentor.io/profile/NitiemaDev)
-- **GitHub:** [@NitiemaDev](https://github.com/NitiemaDev)
+## Author
 
----
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-## 🎖 Acknowledgments
+**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-A big thanks to the **Frontend Mentor** community for these engaging challenges and to everyone sharing their knowledge in web development. 🚀
+## Acknowledgments
 
-Let's keep learning and building awesome projects! 😃
+This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
