@@ -4,7 +4,7 @@ This is a solution to the QR code component challenge on [Frontend Mentor](https
 
 ---
 
-## 📜 Table of contents
+## Table of contents
 
 - [Overview](#overview)
 - [Screenshot](#screenshot)
@@ -19,28 +19,29 @@ This is a solution to the QR code component challenge on [Frontend Mentor](https
 
 ---
 
-## 🏆 Overview
+## Overview
 
 A simple yet effective project that displays a QR Code with a short description. This project helped me practice layout structuring, responsiveness, and clean code integration.
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![Project Screenshot](./images/QRcodeSolution%20Desktop.png)
+![Project Screenshot](./images/QRcodeSolution%20Mobile.png)
 
 ---
 
-## 🔗 Links
+## Links
 
-- **Solution URL:** [Add solution URL here]
-- **Live Site URL:** [Add live site URL here]
+- **Solution URL:** [Frontend Mentor](https://www.frontendmentor.io/solutions/un-qr-code-realis-en-reactjs-riMzf5BHb4)
+- **Live Site URL:** [Live Demo](https://qr-code-solution-psi.vercel.app/)
 
 ---
 
-## ⚙️ My process
+## My process
 
-### 🛠 Built with
+### Built with
 
 - **Semantic HTML5 markup**
 - **CSS3 (Flexbox + Media Queries)**
@@ -49,7 +50,7 @@ A simple yet effective project that displays a QR Code with a short description.
 
 ---
 
-### 📌 What I learned
+### What I learned
 
 This project reinforced my knowledge in:
 
@@ -76,8 +77,7 @@ function QrCodeCard() {
 ```
 
 ---
-
-### 🚀 Continued development
+### Continued development
 
 In future projects, I want to:
 
@@ -87,23 +87,23 @@ In future projects, I want to:
 
 ---
 
-### 📚 Useful resources
+### Useful resources
 
-- [📖 JavaScript.info](https://javascript.info/) - Comprehensive JS guide, from basics to advanced topics.
-- [💡 CSS Tricks](https://css-tricks.com/) - A great place for CSS tips and tricks.
-- [📘 React Docs](https://react.dev/) - The official React documentation.
+- [JavaScript.info](https://javascript.info/) - Comprehensive JS guide, from basics to advanced topics.
+- [CSS Tricks](https://css-tricks.com/) - A great place for CSS tips and tricks.
+- [React Docs](https://react.dev/) - The official React documentation.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-- **Website:** [Add your name here]
+- **Website:** [Nitiema]
 - **Frontend Mentor:** [@NitiemaDev](https://www.frontendmentor.io/profile/NitiemaDev)
 - **GitHub:** [@NitiemaDev](https://github.com/NitiemaDev)
 
 ---
 
-## 🎖 Acknowledgments
+## Acknowledgments
 
 A big thanks to the **Frontend Mentor** community for these engaging challenges and to everyone sharing their knowledge in web development. 🚀
 
